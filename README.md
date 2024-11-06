@@ -38,7 +38,7 @@
 
 ![HTML5](https://dart.dev/assets/img/logo/logo-white-text.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://git-scm.com/?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
