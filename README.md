@@ -36,9 +36,16 @@
 
 ## 💻 Tech Stack I Used:
 
+
+
 ![HTML5](https://dart.dev/assets/img/logo/logo-white-text.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://git-scm.com/?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://hv-static-content.s3.amazonaws.com/Logo/Hive/Hive-Light.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://www.api.org/library/apiweb/img/site/apitagline.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://www.gstatic.com/devrel-devsite/prod/ve73583a8e360906cd2a16ff5571c1edda64ba053fc57f348efff9496af45f422/firebase/images/lockup.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
