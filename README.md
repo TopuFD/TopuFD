@@ -6,8 +6,6 @@
 
 ## I am a Flutter Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-</br>
-
 - 🔭 Focusing on FullStack (Flutter + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
@@ -17,35 +15,27 @@
 
 <a href="https://github.com/TopuFD" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TopuFD?label=Github&style=flat">
-  </a>
-  <a href="https://github.com/TopuFD" target="_blank">
+</a>
+<a href="https://github.com/TopuFD" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=TopuFD&label=Profile%20views&color=0e75b6&style=flat" alt="#" />
-  </a> 
+</a> 
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmanik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmanik/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082862521278/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manik500282/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmanik1502083874@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-23338724?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23338724/programmer-manik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/MdManikHossain/)
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-## 💻 Tech Stack I Used:
+## 💻 Tech Stack I Use:
 
-
-
-![HTML5](https://dart.dev/assets/img/logo/logo-white-text.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://hv-static-content.s3.amazonaws.com/Logo/Hive/Hive-Light.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://www.api.org/library/apiweb/img/site/apitagline.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://www.gstatic.com/devrel-devsite/prod/ve73583a8e360906cd2a16ff5571c1edda64ba053fc57f348efff9496af45f422/firebase/images/lockup.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-%23FFCA28.svg?style=for-the-badge&logo=hive&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,26 +53,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<br />
-
-
-
-
-
-
-
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 
-
-
- This is repo start dasbord 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="TopuFD" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="TopuFD" />
