@@ -55,7 +55,4 @@
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="TopuFD" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopuFD&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="TopuFD" />
